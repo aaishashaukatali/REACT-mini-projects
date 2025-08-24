@@ -1,0 +1,17 @@
+h2{
+    color:grey;
+}
+form{
+   background-color: white;
+    box-shadow: 0 1px  3px grey;
+    padding: 2rem;
+}
+
+input{
+    padding: 0.5rem 0 0.5rem 0;
+    border-radius: 0.2rem;
+}
+
+button{
+    background-color: lightblue;
+}
