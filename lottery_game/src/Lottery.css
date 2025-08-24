@@ -1,0 +1,21 @@
+h2{
+    color: grey;
+}
+.lottery {
+    box-shadow: 0 0 3px rgb(70, 65, 65);
+    padding: 3rem;
+}
+
+.ticket{
+    margin: 1rem;
+}
+.ticket span{
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+button{
+    background-color: #fab005;
+    border: none;
+    margin-top: 1rem;
+}
